@@ -4,7 +4,8 @@ Cílem projektu bylo navrhnout a vytvořit praktický insert pro deskovou hru Th
 
 ### Inspirace
 Inspirací mi byl existující model insertu dostupný na platformě Thingiverse:
-https://www.thingiverse.com/thing:3580242
+https://www.thingiverse.com/thing:3580242.
+
 Na základě této předlohy jsem vytvořil vlastní verzi přímo pro hru Théby.
 
 ### Postup
