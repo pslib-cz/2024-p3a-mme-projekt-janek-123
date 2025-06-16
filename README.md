@@ -19,6 +19,7 @@ Na celém projektu jsem pracoval přibližně 10 hodin.
 
 ### VÝSLEDEK
 Insert výrazně zrychlil přípravu hry, zlepšil organizaci komponent a zpříjemnil celkový herní zážitek.
+
 ![IMG_20250616_1712132](https://github.com/user-attachments/assets/c5d793eb-ef15-4b5e-afde-6e20bddcbc07)
 
 ODKAZ NA NÁVRH MODELU:
