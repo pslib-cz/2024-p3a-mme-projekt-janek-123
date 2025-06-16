@@ -18,10 +18,10 @@ Model byl vytištěn z materiálu PLA a váží necelých 90 gramů.
 
 Na celém projektu jsem pracoval přibližně 10 hodin.
 
+Odkaz na návrh modelu:
+https://a360.co/3TrykFk
+
 ### VÝSLEDEK
 Insert výrazně zrychlil přípravu hry, zlepšil organizaci komponent a zpříjemnil celkový herní zážitek.
 
 ![IMG_20250616_1712132](https://github.com/user-attachments/assets/c5d793eb-ef15-4b5e-afde-6e20bddcbc07)
-
-ODKAZ NA NÁVRH MODELU:
-https://a360.co/3TrykFk
